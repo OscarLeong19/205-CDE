@@ -1,6 +1,6 @@
 
 <h1 align="center">Mud Ye Blog</h1>
-<p align="center">Mud Ye Blog is</p>
+<p align="center">Mud Ye Blog is a forum that you can share your own experience in MudYeShop or discuss with other user here. </p>
 
 
 <h1>Before you start</h1>
