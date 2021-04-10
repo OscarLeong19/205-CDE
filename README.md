@@ -18,11 +18,12 @@ pip install flask
 
 <br>
 <h1>After you downloaded</h1>
-<p><b>Please follow these steps and tpye the command in cmd :</b></p>
+<p><b>Please follow these steps and type the command in cmd :</b></p>
+<p>(I used it in Linux)</p>
 
 Enter the python compiler
 ```md
-python
+python3
 ```
 
 Create a databse
@@ -37,7 +38,7 @@ exit()
 
 Run the program
 ```md
-python run.py
+python3 run.py
 ```
 
 
